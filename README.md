@@ -39,4 +39,4 @@ To view and edit the project locally:
 │   └── main.js      # Main JavaScript file
 └── README.md        # Project documentation
 
-6. 
+
